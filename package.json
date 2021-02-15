@@ -1,0 +1,15 @@
+{
+  "name": "storms-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "By ZWIKO",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
